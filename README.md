@@ -11,7 +11,7 @@
       year={2024}}
 
 **Smaller-Size Version** <br>
-To download a smaller-sized version of the article, please use the following link.
+To download a smaller-sized version of the article, please use the following link. <br>
 **[A Misleading Gallery of Fluid Motion by Generative Artificial Intelligence](https://web.stanford.edu/~kashefi/papers/15.pdf)**
 
 
