@@ -1,4 +1,4 @@
-# A Misleading Gallery of Fluid Motion by Generative Artificial Intelligence
+# A misleading gallery of fluid motion by generative artificial intelligence
 
 **Author:** Ali Kashefi (kashefi@stanford.edu)<br>
       
