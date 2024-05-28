@@ -8,6 +8,7 @@
     @article{kashefi2024misleading,
       title={A Misleading Gallery of Fluid Motion by Generative Artificial Intelligence}, 
       author={Ali Kashefi},
+      journal={arXiv preprint arXiv:2405.15406},
       year={2024}}
 
 **Smaller-Size Version** <br>
