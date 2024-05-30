@@ -6,8 +6,8 @@
 **[A Misleading Gallery of Fluid Motion by Generative Artificial Intelligence](https://arxiv.org/abs/2405.15406)**
 
     @article{kashefi2024misleading,
-      title={A Misleading Gallery of Fluid Motion by Generative Artificial Intelligence}, 
-      author={Ali Kashefi},
+      title={A Misleading Gallery of Fluid Motion by Generative Artificial Intelligence},
+      author={Kashefi, Ali},
       journal={arXiv preprint arXiv:2405.15406},
       year={2024}}
 
