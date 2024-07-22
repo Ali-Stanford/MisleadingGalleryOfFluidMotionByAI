@@ -1,6 +1,6 @@
 # A misleading gallery of fluid motion by generative artificial intelligence
 
-![pic](./art.png)
+![pic](./art2.png)
 
 **Author:** Ali Kashefi (kashefi@stanford.edu)<br>
       
