@@ -11,6 +11,16 @@
       journal={arXiv preprint arXiv:2405.15406},
       year={2024}}
 
+    @article{Kashefi2024misleading,
+	author  = {Ali Kashefi},
+	title   = {A MISLEADING GALLERY OF FLUID MOTION BY GENERATIVE ARTIFICIAL INTELLIGENCE},
+	journal = {Journal of Machine Learning for Modeling and Computing},
+	issn    = {2689-3967},
+	year    = {2024},
+	volume  = {5},
+	number  = {2},
+	pages   = {113--144}}
+
 **Smaller-Size Version** <br>
 To download a smaller-sized version of the article, please use the following link. <br>
 **[A Misleading Gallery of Fluid Motion by Generative Artificial Intelligence](https://web.stanford.edu/~kashefi/papers/15.pdf)**
