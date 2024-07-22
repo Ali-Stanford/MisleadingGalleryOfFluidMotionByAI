@@ -3,7 +3,7 @@
 **Author:** Ali Kashefi (kashefi@stanford.edu)<br>
       
 **Citation** <br>
-**[A Misleading Gallery of Fluid Motion by Generative Artificial Intelligence](https://arxiv.org/abs/2405.15406)**
+**[A Misleading Gallery of Fluid Motion by Generative Artificial Intelligence](https://dl.begellhouse.com/journals/558048804a15188a,65c7e3224e2d00e0,33d9a46f14d96b21.html)**
 
     @article{Kashefi2024misleading,
       author  = {Ali Kashefi},
